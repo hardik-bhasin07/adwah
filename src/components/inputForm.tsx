@@ -110,7 +110,7 @@ export default function InputForm({ adMessage, setAdMessage, adImage }: any) {
                             popupWindow.close(); // Close the popup after we get the code
 
                             // Send the code to the backend for token exchange
-                            fetch('/api/', {
+                            fetch('/api/facebookAuth', {
                                 method: 'POST',
                                 headers: { 'Content-Type': 'application/json', 'auth': code },
                                 body: JSON.stringify({ code }),

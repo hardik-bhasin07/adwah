@@ -35,3 +35,25 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 # adwah
+Adwah is an AI-powered drag-and-drop ad automation tool built to simplify and supercharge WhatsApp marketing.
+
+With Adwah, users can:
+
+📁 Upload Excel sheets containing contact numbers
+
+✏️ Create ad message templates using AI – including personalized text
+
+🖼️ Attach images or creatives effortlessly
+
+🚀 Send ads to thousands of users with just one click
+
+🔧 Key Features:
+Drag-and-drop UI for effortless campaign building
+
+AI-powered content generation for smarter messaging
+
+Bulk contact upload via Excel (.xlsx or .csv)
+
+Image support for visually rich ads
+
+One-click WhatsApp broadcast
